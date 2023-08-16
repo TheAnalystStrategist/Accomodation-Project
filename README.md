@@ -9,4 +9,4 @@ This was my first complete SQL project i created. In this project, I learned how
 6) Comparing JOINs, IN and EXISTS operators
 7) How to use JOIN, WHERE, and EXISTS operators in SQL and many more.
 
-It was exciting to see how everything came together. This porject enhanced my skills in 
+It was exciting to see how everything came together. Through this project, I have demonstrated a great understanding of SQL—how to write SQL queries to retrieve and manipulate data from relational databases.
