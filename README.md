@@ -1,4 +1,4 @@
-This was my first complete SQL project i created. In this project, I learned how to:
+This was one of the first complete SQL projects I created. In this project, I learned how to:
 
 1) Create and Drop Tables in SQL
   
