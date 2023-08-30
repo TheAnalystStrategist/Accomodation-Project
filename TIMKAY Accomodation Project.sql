@@ -145,7 +145,7 @@ INSERT INTO INVOICE_LINE VALUES('14237','LP73',3,54.95 );
 -- SELECT * FROM INVOICE_LINE;
 COMMIT;    
 
-/* week 5 continuation with multiple table diagram */ 
+/* continuation with multiple table diagram */ 
 
 use timkay;
 
